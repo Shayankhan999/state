@@ -1,0 +1,83 @@
+
+
+.estate{
+    background-color:  #FFFFFF;
+    width: 100%;
+}
+.a {
+    border-radius: 20% !important;
+}
+.b>button{
+    margin-left: 10px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+.navbar-collapse{
+    font-weight: bold;
+}
+.c{
+    margin-top: 30px;
+    width: 100%;
+    height: 370px;
+    background-image:  linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+    border-radius: 5px;
+}
+.e{
+    padding: 60px 20px 50px 20px;
+}
+.f{
+    width: 100%;
+}
+.f>img{
+    width: 100%;
+  height: 400px;
+}
+
+
+@media  only screen and (max-width:480px){
+    .e>p>img{
+        width: 380px;
+    }
+    .c{
+        width: 100%;
+        height: 700px;
+        background-image:  linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+        border-radius: 5px;
+    }
+  
+}
+@media  only screen and (max-width:390px){
+    .e>p>img{
+        width: 330px;
+    }
+}
+.g{
+    text-align: center;
+    margin-top: 30px;
+}
+.ahmed{
+    padding-top: 30px;
+}
+.k {
+    padding-top: 40px;
+}
+.k>h2>img{
+    padding-left: 700px;
+}
+.l{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.m>button{
+    margin: 30px;
+
+}
+@media  only screen and (max-width:560px){
+    .n>img{
+        width: 500px;
+    }
+}
+.o{
+    margin-top: 30px;
+}
